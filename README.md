@@ -10,6 +10,7 @@ A landing page is an ideal web development project for beginners. It requires ba
 knowledge of HTML and CSS.
 
 Stack:- HTML & CSS
+
 IDE :- VS code
 
 Demo Link: https://landing-page-rd-codsoft.netlify.app
@@ -22,6 +23,7 @@ Task Details: Creating a personal portfolio using CSS and HTML is a popular begi
 project.
 
 Stack:- HTML, CSS & JavaScript
+
 IDE :- VS code
 
 Demo link:- https://portfolio-rd-codsoft.netlify.app
@@ -35,6 +37,7 @@ interactive interface with buttons for addition, subtraction, multiplication, an
 operations.
 
 Stack:- HTML, CSS & JavaScript
+
 IDE :- VS code
 
 Demo Link:- https://calculator-rd-codsoft.netlify.app
