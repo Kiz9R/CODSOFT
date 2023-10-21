@@ -94,8 +94,7 @@ body {
   white-space: nowrap;
   word-wrap: break-word;
   transition: 0.8s, background 1.8s;
-  /*experimental custom scrollbar with firefox only
-    see: https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Scrollbars*/
+
   scrollbar-color: rgba(0, 0, 0, 0.2) var(--disp-scroll-primary);
   scrollbar-width: thin;
 }
@@ -229,8 +228,7 @@ body {
   overflow-y: auto;
   overflow-x: hidden;
   word-wrap: break-word;
-  /*experimental custom scrollbar with firefox only
-    see: https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Scrollbars*/
+
   scrollbar-color: var(--histo-scroll-primary) var(--histo-scroll-secondary);
   scrollbar-width: thin;
 }
